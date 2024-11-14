@@ -1697,16 +1697,15 @@ body {
 /*========================
 	Start Clients CSS
 ==========================*/
-.clients {
+.brands {
   background-image: url("img/banner/client-banner.webp");
   background-size: cover;
   background-position: center;
   padding: 100px 0px;
   position: relative;
 }
-.clients .single-clients {
-}
-.clients .single-clients img {
+
+.brands .single-brands img {
   width: 100%;
   cursor: pointer;
   text-align: center;
